@@ -5,7 +5,7 @@ This project focuses on API integration, asynchronous JavaScript, and dynamic UI
 
 ---
 
-## 🚀 Technologies Used
+## Technologies Used
 
 * **HTML5** – Structuring the application
 * **CSS3** – Styling and responsive layout
@@ -14,7 +14,7 @@ This project focuses on API integration, asynchronous JavaScript, and dynamic UI
 
 ---
 
-## ✨ Features
+## Features
 
 * Browse popular movies
 * Search movies by title
@@ -28,7 +28,7 @@ This project focuses on API integration, asynchronous JavaScript, and dynamic UI
 
 ---
 
-## 🛠️ Development Process
+## Development Process
 
 1. Designed the UI layout using HTML
 2. Styled the application with CSS for responsiveness and clean design
@@ -39,7 +39,7 @@ This project focuses on API integration, asynchronous JavaScript, and dynamic UI
 
 ---
 
-## 📚 What I Learned
+## What I Learned
 
 * Working with REST APIs
 * Handling asynchronous operations in JavaScript
@@ -49,7 +49,7 @@ This project focuses on API integration, asynchronous JavaScript, and dynamic UI
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 * Add pagination or infinite scrolling
 * Include movie trailers using YouTube API
@@ -59,7 +59,7 @@ This project focuses on API integration, asynchronous JavaScript, and dynamic UI
 
 ---
 
-## 📌 Purpose of the Project
+## Purpose of the Project
 
 This project was built to strengthen frontend development skills by working with APIs, asynchronous JavaScript, and dynamic user interfaces using real-world movie data.
 
