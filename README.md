@@ -62,3 +62,8 @@ This project focuses on API integration, asynchronous JavaScript, and dynamic UI
 ## 📌 Purpose of the Project
 
 This project was built to strengthen frontend development skills by working with APIs, asynchronous JavaScript, and dynamic user interfaces using real-world movie data.
+
+---
+
+## Author
+Greeshma web Developer | CSE (AI & ML) Student GitHub: https://github.com/greeshmagali
