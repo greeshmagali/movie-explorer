@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.main-container {
+    background-color: #0f172a;
+    padding: 10px;
+    text-align: center;
+    height: 100%;
+    background-size: cover;
+}
+
+.movie-description {
+    display: none;
+    margin-top: 8px;
+    font-size: 14px;
+    color: #ccc;
+    text-align: left;
+}
+
+.movie-description.show {
+    display: block;
+}
+
+.movies-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 15px;
+    padding: 20px;
+}
+
+.movie-card img {
+    width: 100%;
+    border-radius: 8px;
+}
+
+.movie-card {
+    background-color: #222;
+    border-radius: 8px;
+    padding: 10px;
+    text-align: center;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.5);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.movie-card img {
+    width: 100%;
+    height: auto; 
+    border-radius: 8px;
+    object-fit: cover;
+}
+
+.heading-container {
+    background-color: #1e293b;
+    padding: 15px;
+    text-align: center;
+    background-size: cover;
+}
+
+.heading {
+    color: #38bdf8;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.input {
+    border-width: 0px;
+    border-radius: 5px;
+    padding: 4px;
+
+}
+
+.button {
+    background-color: #38bdf8;
+    padding: 5px;
+    border-width: 0px;
+    border-radius: 5px;
+    margin-left: 3px;
+}
